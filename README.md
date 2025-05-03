@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JKV21
+- 👋 Hi, I’m Valentin Costea @jkvdev
 - 👀 I’m interested in programming and learning new things
 - 🌱 I’m currently learning about the blockchain
 - 💞️ I’m looking to collaborate on any kind of project
