@@ -9,4 +9,6 @@ JKV21/JKV21 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes. 
 
 Today I wrote an entire business plan. I'm just clocking in at this point. 😅
+
+Getting ready for a big day and documenting it in the github comments of my profile's about me, lol.
 --->
